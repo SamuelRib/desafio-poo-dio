@@ -1,4 +1,5 @@
 # desafio-poo-dio
+
 Desafio: Aprenda na Prática Programação Orientada a Objetos
 📜 SLIDES APRESENTADO NO PROJETO 📜
 
@@ -12,6 +13,7 @@ Desafio este que tive a honra de co-criar com a plataforma de cursos online DIGI
 ✅ IDE para desenvolvimento Java (usarei IntelliJ)
 ✅ Git
 ✅ Conta no GitHub
+
 👣 Passo-a-Passo
 1. Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS
 2. Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las
@@ -104,3 +106,4 @@ Se possível:
 ⭐️ Star o projeto
 🐛 Encontrar e relatar issues
 Disponibilizado com ♥ por cami-la.
+https://github.com/cami-la/desafio-poo-dio
